@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>Tran Van Hung</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Dai hoc</trinhdo>
+    <diachi>Hai Ba Trung</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Tran Van Nam</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Cao dang</trinhdo>
+    <diachi>Hai Ba Trung</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>Nguyen Van Anh</hoten>
+    <gioitinh>Nu</gioitinh>
+    <trinhdo>Dai hoc</trinhdo>
+    <diachi>Hai Ba Trung</diachi>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>Ha Thu Huong</hoten>
+    <gioitinh>Nu</gioitinh>
+    <trinhdo>Cao dang</trinhdo>
+    <diachi>Hai Ba Trung</diachi>
+  </nhanvien>
+</ds>

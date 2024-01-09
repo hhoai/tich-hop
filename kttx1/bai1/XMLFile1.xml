@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl"  href="bai1.xslt"?>
+<TV TenTV="Dai hoc cong nghiep HN">
+	<NhaXB TenNXB="Giao duc">
+		<Sach MaSach="S001">
+			<TenSach>Tin van phong</TenSach>
+			<TheLoai>Tin hoc</TheLoai>
+			<SoTrang>120</SoTrang>
+		</Sach>
+		<Sach MaSach="S002">
+			<TenSach>Tin van phong</TenSach>
+			<TheLoai>Tin hoc</TheLoai>
+			<SoTrang>180</SoTrang>
+		</Sach>
+		<Sach MaSach="S003">
+			<TenSach>Tin van phong</TenSach>
+			<TheLoai>Tin hoc</TheLoai>
+			<SoTrang>150</SoTrang>
+		</Sach>
+	</NhaXB>
+	<NhaXB TenNXB="Giao duc 2">
+		<Sach MaSach="S001">
+			<TenSach>Tin van phong</TenSach>
+			<TheLoai>Tin hoc</TheLoai>
+			<SoTrang>120</SoTrang>
+		</Sach>
+		<Sach MaSach="S002">
+			<TenSach>Tin van phong</TenSach>
+			<TheLoai>Tin hoc</TheLoai>
+			<SoTrang>180</SoTrang>
+		</Sach>
+		<Sach MaSach="S003">
+			<TenSach>Tin van phong</TenSach>
+			<TheLoai>Tin hoc</TheLoai>
+			<SoTrang>150</SoTrang>
+		</Sach>
+	</NhaXB>
+</TV> 
+

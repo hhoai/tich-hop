@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml-stylesheet type="text/xsl" href="bai2.xslt"?>
+<HD MaHD="HD1">
+	<LoaiHang TenLoai="Dien tu">
+		<MaLoai>DT</MaLoai>
+		<Hang MaHang="H1">
+			<TenHang>Ti vi</TenHang>
+			<SoLuong>60</SoLuong>
+			<DonViTinh>Chiec</DonViTinh>
+			<DonGia>60000</DonGia>
+		</Hang>
+		<Hang MaHang="H2">
+			<TenHang>Tu lanh</TenHang>
+			<SoLuong>50</SoLuong>
+			<DonViTinh>Chiec</DonViTinh>
+			<DonGia>50000</DonGia>
+		</Hang>
+		<Hang MaHang="H3">
+			<TenHang>Quat</TenHang>
+			<SoLuong>101</SoLuong>
+			<DonViTinh>Chiec</DonViTinh>
+			<DonGia>30000</DonGia>
+		</Hang>
+	</LoaiHang>
+	<LoaiHang TenLoai="Quan ao">
+		<MaLoai>QA</MaLoai>
+		<Hang MaHang="H1">
+			<TenHang>Ao</TenHang>
+			<SoLuong>160</SoLuong>
+			<DonViTinh>Chiec</DonViTinh>
+			<DonGia>6000</DonGia>
+		</Hang>
+		<Hang MaHang="H2">
+			<TenHang>Quani</TenHang>
+			<SoLuong>60</SoLuong>
+			<DonViTinh>Chiec</DonViTinh>
+			<DonGia>5000</DonGia>
+		</Hang>
+		<Hang MaHang="H3">
+			<TenHang>Khan</TenHang>
+			<SoLuong>200</SoLuong>
+			<DonViTinh>Chiec</DonViTinh>
+			<DonGia>1000</DonGia>
+		</Hang>
+	</LoaiHang>
+</HD>

@@ -1,0 +1,10 @@
+C:\Users\TGDD\Desktop\KTLT\TichHop\kttx2\kttx2\bin\Debug\kttx2.exe.config
+C:\Users\TGDD\Desktop\KTLT\TichHop\kttx2\kttx2\bin\Debug\kttx2.exe
+C:\Users\TGDD\Desktop\KTLT\TichHop\kttx2\kttx2\bin\Debug\kttx2.pdb
+C:\Users\TGDD\Desktop\KTLT\TichHop\kttx2\kttx2\obj\Debug\kttx2.csproj.AssemblyReference.cache
+C:\Users\TGDD\Desktop\KTLT\TichHop\kttx2\kttx2\obj\Debug\kttx2.Form1.resources
+C:\Users\TGDD\Desktop\KTLT\TichHop\kttx2\kttx2\obj\Debug\kttx2.Properties.Resources.resources
+C:\Users\TGDD\Desktop\KTLT\TichHop\kttx2\kttx2\obj\Debug\kttx2.csproj.GenerateResource.cache
+C:\Users\TGDD\Desktop\KTLT\TichHop\kttx2\kttx2\obj\Debug\kttx2.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\Desktop\KTLT\TichHop\kttx2\kttx2\obj\Debug\kttx2.exe
+C:\Users\TGDD\Desktop\KTLT\TichHop\kttx2\kttx2\obj\Debug\kttx2.pdb
